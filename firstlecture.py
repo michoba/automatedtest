@@ -8,4 +8,4 @@ if name is "Lucy":
 if name is "Samy":
     print("What up Slammy?")
 else:
-    print("Please register up for the site")
+    print("Please register up for the site israel")
